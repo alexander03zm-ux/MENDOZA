@@ -57,6 +57,7 @@ small {
     /* Rena y recorta suavemente para que no se deformen */
     border-radius: 20px;
     /* Bordes redondeados */
+    line-height: 1.5;
 }
 
 #my1 {
